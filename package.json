@@ -18,5 +18,8 @@
     "surge": "^0.23.1"
   },
   "author": "Korelskiy Anton",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "make": "^0.8.1"
+  }
 }
